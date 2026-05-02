@@ -1,0 +1,213 @@
+{
+  "id": 7,
+  "topic": "Some people think that children should start learning a foreign language at primary school, while others believe it is better to start at secondary school.",
+  "date": "2026-04-02",
+  "type": "Opinion",
+  "original_text": "Learning a foreign language has become an important part of education. Some people argue that children should begin learning a new language at primary school, while other believe it is more effective to start at secondary school. In my perspective, the earlier it starts, the better, because children are trying to define the whole world through language. Nobody knows definition and meaning of any word when they are a baby or children. They mainly imagine and learn during their formative years. \n\nBeing multilingual can help us draw analogies more easily because everyone learns some grammatical rules during their education. Nevertheless, it is crucial that parents provide proper guidance; otherwise, children may not reach their full potential and maybe they will not learn a language totally. The effectiveness of learning a second language at an early age largely depends on the family and their approach. When parents dedicate sufficient time to play and practice a second language with their children, it can be highly effective. Conversely, for parents who work full-time, helping a child become multilingual can be challenging because not all language skills are taught at school or covered in formal courses.\n\nEventually, learning is a period so you should choose right time to take action it can be change your child's habits, development even its social life.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [],
+    "grammar_mistakes": [
+      {
+        "wrong": "while other believe it is more effective",
+        "correct": "while others believe it is more effective"
+      },
+      {
+        "wrong": "In my perspective, the earlier",
+        "correct": "From my perspective, the earlier"
+      },
+      {
+        "wrong": "Nobody knows definition and meaning of any word",
+        "correct": "Nobody knows the definition and meaning of any word"
+      },
+      {
+        "wrong": "when they are a baby or children",
+        "correct": "when they are a baby or a child"
+      },
+      {
+        "wrong": "maybe they will not learn a language totally",
+        "correct": "or they may not fully learn the language"
+      },
+      {
+        "wrong": "to play and practice a second language with their children",
+        "correct": "to play with and practice a second language with their children"
+      },
+      {
+        "wrong": "choose right time to take action it can be change your child's habits, development even its social life",
+        "correct": "choose the right time to take action, as it can change your child's habits, development, and even their social life"
+      }
+    ],
+    "corrected_version": "Learning a foreign language has become an important part of education. Some people argue that children should begin learning a new language at primary school, while others believe it is more effective to start at secondary school. From my perspective, the earlier it starts, the better, because children are trying to define the whole world through language. Nobody knows the definition and meaning of any word when they are a baby or a child. They mainly imagine and learn during their formative years.\n\nBeing multilingual can help us draw analogies more easily because everyone learns some grammatical rules during their education. Nevertheless, it is crucial that parents provide proper guidance; otherwise, children may not reach their full potential or fully learn the language. The effectiveness of learning a second language at an early age largely depends on the family and their approach. When parents dedicate sufficient time to play with and practice a second language with their children, it can be highly effective. Conversely, for parents who work full-time, helping a child become multilingual can be challenging because not all language skills are taught at school or covered in formal courses.\n\nUltimately, learning is a journey, and choosing the right time to take action can change your child's habits, development, and even their social life.",
+    "scores": {
+      "vocabulary": 6,
+      "grammar": 5,
+      "coherence": 5
+    },
+    "notes": [
+      "Your conclusion is a single broken sentence — it should be 2–3 clear sentences that restate your opinion in different words and end with a strong, memorable closing thought.",
+      "'In my perspective' is incorrect English — always write 'From my perspective' or 'In my opinion'. This was corrected in a previous essay, so make sure to apply it every time.",
+      "Before submitting, scan every noun and ask: does it need 'the', 'a', or 'an'? Missing articles ('knows definition', 'choose right time') remain a consistent weak point.",
+      "You have only one body paragraph. Aim for two: one arguing the cognitive advantages of early learning, and a second discussing the importance of parental support. One idea per paragraph.",
+      "When listing nouns, always use commas between each item and 'and' before the last one: 'habits, development, and social life' — not 'habits, development even social life'."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "You introduce the topic, present both sides, and state your opinion clearly — all positive habits. However, the justification for your opinion ('children are trying to define the whole world through language') is too vague to be convincing. The following two sentences about babies not knowing word meanings feel disconnected from the main argument. Try to support your opinion with one specific, concrete reason in the introduction."
+        },
+        {
+          "type": "body",
+          "feedback": "This is your only body paragraph, which is a significant weakness for an opinion essay — you need at least two. The paragraph also mixes two separate ideas: (1) the cognitive/linguistic benefits of multilingualism, and (2) the impact of parental involvement. These deserve their own paragraphs. Additionally, the claim that multilingualism helps 'draw analogies more easily because everyone learns grammatical rules' is logically unclear. Consider replacing it with a stronger, more direct argument, such as the brain's greater adaptability in early childhood."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "This is the weakest part of the essay. It is a single sentence with multiple grammar errors, and it reads as an unfinished thought. It does not restate your position, recap your main points, or offer a meaningful final message. Rewrite this as 2–3 sentences: first restate your opinion using different words, then briefly mention your supporting reasons, and close with a broad statement about the topic's importance."
+        }
+      ],
+      "overall": "The essay follows a recognizable three-part structure, and your introduction is the strongest section. However, having only one body paragraph makes the argument feel underdeveloped, and the conclusion needs to be completely rewritten. For a standard opinion essay, aim for: introduction + two body paragraphs (one argument each) + a proper conclusion. Strengthening these will significantly improve your coherence score."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "From my perspective, children should be introduced to a foreign language as early as possible.",
+        "It is widely believed that early exposure to a second language leads to greater long-term fluency.",
+        "In this essay, I will argue that primary school is the ideal stage to begin foreign language education.",
+        "While some feel that secondary school is more appropriate, I strongly believe that earlier exposure is far more beneficial.",
+        "There is strong evidence to suggest that younger learners acquire new languages more naturally than older students."
+      ],
+      "body": [
+        "One of the key advantages of early language learning is that young children's brains are significantly more adaptable.",
+        "Furthermore, studies suggest that children who learn a second language early tend to develop stronger overall cognitive skills.",
+        "However, it is important to acknowledge that parental support plays a crucial role in a child's language development.",
+        "On the other hand, without adequate encouragement at home, the benefits of early language instruction may be limited.",
+        "For instance, when parents actively engage with their child's learning, progress can be considerably faster."
+      ],
+      "conclusion": [
+        "In conclusion, I firmly believe that introducing a foreign language at primary school gives children a lasting advantage.",
+        "To summarize, early language education — when supported by both school and family — can have a profound impact on a child's future.",
+        "Ultimately, the earlier children are exposed to a second language, the more naturally they will come to master it.",
+        "For these reasons, I strongly support making foreign language learning a core part of primary school education."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "important",
+        "alternatives": [
+          "essential",
+          "significant",
+          "vital",
+          "fundamental"
+        ]
+      },
+      {
+        "used": "start / begin",
+        "alternatives": [
+          "introduce",
+          "embark on",
+          "commence",
+          "initiate"
+        ]
+      },
+      {
+        "used": "learn",
+        "alternatives": [
+          "acquire",
+          "master",
+          "absorb",
+          "develop proficiency in"
+        ]
+      },
+      {
+        "used": "help",
+        "alternatives": [
+          "enable",
+          "facilitate",
+          "allow",
+          "support"
+        ]
+      },
+      {
+        "used": "effective",
+        "alternatives": [
+          "beneficial",
+          "productive",
+          "impactful",
+          "fruitful"
+        ]
+      },
+      {
+        "used": "proper",
+        "alternatives": [
+          "adequate",
+          "appropriate",
+          "sufficient",
+          "meaningful"
+        ]
+      },
+      {
+        "used": "challenging",
+        "alternatives": [
+          "demanding",
+          "difficult",
+          "a considerable struggle",
+          "no easy task"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "nevertheless",
+        "conversely",
+        "eventually",
+        "because",
+        "otherwise",
+        "when"
+      ],
+      "missing_types": [
+        "cause and effect (therefore, as a result, consequently)",
+        "exemplification (for instance, for example, such as)",
+        "addition (furthermore, in addition, moreover)",
+        "concession (although, even though, despite this)"
+      ],
+      "suggestions": [
+        "furthermore",
+        "in addition",
+        "as a result",
+        "for instance",
+        "although",
+        "therefore",
+        "consequently",
+        "in contrast",
+        "despite this"
+      ]
+    },
+    "resolved_mistakes": [
+      {
+        "pattern": "Spelling errors",
+        "example": "Previous essays contained multiple spelling mistakes such as 'notificaiton', 'activites', and 'Agust'. This essay contains zero spelling errors — a clear and meaningful improvement."
+      }
+    ],
+    "still_recurring": [
+      {
+        "pattern": "Wrong preposition in opinion opener ('in' vs 'from')",
+        "count": 2,
+        "essays": [
+          3,
+          7
+        ],
+        "example": "Essay #3 correction: 'In my perspective' → 'From my perspective'. Current essay still writes 'In my perspective' — the incorrect preposition 'in' has not been corrected."
+      },
+      {
+        "pattern": "Missing articles (the / a / an) before nouns",
+        "count": 2,
+        "essays": [
+          5,
+          7
+        ],
+        "example": "Essay #5: 'cannot say same' → 'cannot say the same'. Current essay: 'Nobody knows definition and meaning' (missing 'the') and 'choose right time' (missing 'the') — article omission is a continuing pattern."
+      }
+    ],
+    "evaluated_at": "2026-04-02T17:16:54.702199"
+  },
+  "created_at": "2026-04-02T17:02:07.184579"
+}

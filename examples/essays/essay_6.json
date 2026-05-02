@@ -1,0 +1,174 @@
+{
+  "id": 6,
+  "topic": "Many people believe that artificial intelligence will replace many jobs in the future. Do you agree or disagree?",
+  "date": "2026-04-01",
+  "type": "Argumentative",
+  "original_text": "In recent years, artificial intelligence has developed rapidly and has started to affect many industries. Some people believe that AI will replace many jobs in the future. I partly agree with this idea because although AI can replace some routine jobs, many professions still require human skills. However, this may not be the case for workers in repetitive jobs such as factory work, data processing, or cashier jobs because repetitive and basic tasks can be replaced by robots. Actually, this truth is not frightening; we need to learn how to manage them efficiently.\n\nPeople experienced the same situation during the Industrial Revolution, and many of them lost their jobs or faced financial difficulties. Nobody wants robots to do all our jobs because this would significantly reduce human involvement and creativity in the workplace. Robots basically just follow commands, but they do not have emotions or human judgement. For example, granting extra leave to a pregnant worker may not be legally permissible, but it can be a humane decision.\n\nIn conclusion, the world and its resources are meant to serve human life, not machines or robots. Therefore, humans should remain at the center of work and technological development.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [],
+    "grammar_mistakes": [
+      {
+        "wrong": "this may not be the case for workers in repetitive jobs such as factory work, data processing, or cashier jobs because repetitive and basic tasks can be replaced by robots",
+        "correct": "this may not apply to workers in repetitive jobs such as factory work, data processing, or cashier roles, as these basic tasks can easily be automated"
+      },
+      {
+        "wrong": "Actually, this truth is not frightening; we need to learn how to manage them efficiently.",
+        "correct": "However, this reality is not frightening; we need to learn how to manage these changes efficiently."
+      },
+      {
+        "wrong": "People experienced the same situation during the Industrial Revolution, and many of them lost their jobs",
+        "correct": "People experienced a similar situation during the Industrial Revolution, when many of them lost their jobs"
+      },
+      {
+        "wrong": "Nobody wants robots to do all our jobs because this would significantly reduce human involvement",
+        "correct": "Nobody wants robots to do all our jobs, as this would significantly reduce human involvement"
+      }
+    ],
+    "corrected_version": "In recent years, artificial intelligence has developed rapidly and has started to affect many industries. Some people believe that AI will replace many jobs in the future. I partly agree with this idea because, although AI can replace some routine jobs, many professions still require human skills. However, this may not apply to workers in repetitive jobs such as factory work, data processing, or cashier roles, as these basic tasks can easily be automated. That said, this reality is not frightening; we need to learn how to manage these changes efficiently.\n\nPeople experienced a similar situation during the Industrial Revolution, when many of them lost their jobs or faced financial difficulties. Nobody wants robots to do all our jobs, as this would significantly reduce human involvement and creativity in the workplace. Robots basically just follow commands; they do not have emotions or human judgment. For example, granting extra leave to a pregnant worker may not be legally permissible, but it can be a humane decision that only a human manager would make.\n\nIn conclusion, the world and its resources are meant to serve human life, not machines or robots. Therefore, humans should remain at the center of work and technological development.",
+    "scores": {
+      "vocabulary": 6,
+      "grammar": 7,
+      "coherence": 5
+    },
+    "notes": [
+      "Your essay has only one body paragraph. For an argumentative essay, aim for at least two: one supporting your position and one addressing the counterargument. You could separate the 'routine jobs will be replaced' idea from the 'humans are still essential' idea into distinct paragraphs.",
+      "Watch out for vague pronouns like 'them' and 'this truth.' Always make sure the reader can clearly identify what your pronoun refers to.",
+      "Your example about granting leave to a pregnant worker is creative, but connect it more explicitly to your main argument — add a sentence explaining why this proves humans cannot be replaced.",
+      "Your introduction tries to cover too many points. State your thesis clearly in the introduction, then develop your supporting arguments in the body paragraphs.",
+      "Add a stronger topic sentence at the beginning of each body paragraph to guide the reader through your argument."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "The introduction starts well with background context and a clear partial-agreement thesis. However, it is overloaded — it introduces the counterargument about repetitive jobs AND offers a reassuring statement about managing AI, both of which belong in body paragraphs. Keep the introduction focused on context + thesis only."
+        },
+        {
+          "type": "body",
+          "feedback": "This is the only body paragraph, which is a significant structural weakness. It mixes the Industrial Revolution comparison, a general claim about robots lacking emotions, and a specific example about workplace decisions. Each of these could be its own paragraph with deeper development. The example about the pregnant worker is original but feels disconnected — you need a bridging sentence to tie it back to your argument about why AI cannot replace human judgment."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "The conclusion is concise and restates the main idea. However, it feels abrupt and does not summarize the key arguments made in the essay. A stronger conclusion would briefly revisit the main points before the final statement."
+        }
+      ],
+      "overall": "The essay follows a basic three-paragraph structure but would benefit greatly from expanding to four or five paragraphs. The single body paragraph tries to carry too many ideas at once. A clearer structure would be: Introduction (thesis) → Body 1 (jobs AI can replace + evidence) → Body 2 (jobs AI cannot replace + evidence) → Conclusion (synthesis). This would dramatically improve coherence and persuasiveness."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "It is widely argued that...",
+        "While I acknowledge that... I firmly believe that...",
+        "This essay will argue that... although...",
+        "There is a growing debate about whether...",
+        "I partially agree with this view, as I believe..."
+      ],
+      "body": [
+        "On the one hand, it is undeniable that...",
+        "On the other hand, there are professions that...",
+        "A compelling example of this is...",
+        "This clearly demonstrates that...",
+        "Furthermore, it is worth noting that..."
+      ],
+      "conclusion": [
+        "To sum up, while AI may transform certain industries...",
+        "In light of the arguments presented above...",
+        "Ultimately, the key takeaway is that...",
+        "All things considered, I maintain that...",
+        "Rather than fearing AI, society should focus on..."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "developed rapidly",
+        "alternatives": [
+          "advanced significantly",
+          "progressed at an unprecedented pace",
+          "evolved dramatically"
+        ]
+      },
+      {
+        "used": "affect many industries",
+        "alternatives": [
+          "transform entire sectors",
+          "reshape various industries",
+          "disrupt multiple fields"
+        ]
+      },
+      {
+        "used": "replace",
+        "alternatives": [
+          "displace",
+          "supplant",
+          "render obsolete"
+        ]
+      },
+      {
+        "used": "lost their jobs",
+        "alternatives": [
+          "became unemployed",
+          "were displaced from their occupations",
+          "faced job displacement"
+        ]
+      },
+      {
+        "used": "frightening",
+        "alternatives": [
+          "alarming",
+          "concerning",
+          "daunting"
+        ]
+      },
+      {
+        "used": "basically just follow commands",
+        "alternatives": [
+          "merely execute programmed instructions",
+          "simply carry out predetermined tasks",
+          "only operate based on coded directives"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "because",
+        "although",
+        "however",
+        "actually",
+        "for example",
+        "but",
+        "in conclusion",
+        "therefore"
+      ],
+      "missing_types": [
+        "addition (adding supporting points)",
+        "cause/effect (showing consequences)",
+        "concession (acknowledging the other side more formally)",
+        "sequence (ordering arguments)"
+      ],
+      "suggestions": [
+        "Furthermore / Moreover / In addition",
+        "As a result / Consequently / This leads to",
+        "Admittedly / Granted / While it is true that",
+        "First and foremost / Secondly / Finally",
+        "Nevertheless / Nonetheless / Despite this"
+      ]
+    },
+    "resolved_mistakes": [
+      {
+        "pattern": "effect vs. affect confusion",
+        "example": "In Essay #5 the student wrote 'effect' instead of 'affect' (e.g., 'it can directly effect your habits'). In this essay, the student correctly writes 'has started to affect many industries.'"
+      },
+      {
+        "pattern": "missing commas after introductory phrases",
+        "example": "In Essays #3–5 the student often omitted commas after introductory expressions (e.g., 'for example in Türkiye', 'From my perspective all'). In this essay, commas are correctly placed: 'In recent years,', 'For example,', 'In conclusion,', 'Actually,'."
+      },
+      {
+        "pattern": "missing comma before coordinating conjunction in compound sentences",
+        "example": "In Essay #5 the student wrote 'Every innovation contains both negative and positive sides but you can choose' without a comma. In this essay, the student correctly writes 'Robots basically just follow commands, but they do not have emotions.'"
+      }
+    ],
+    "still_recurring": [],
+    "evaluated_at": "2026-04-01T03:47:21.914756"
+  },
+  "created_at": "2026-04-01T03:44:08.592691"
+}

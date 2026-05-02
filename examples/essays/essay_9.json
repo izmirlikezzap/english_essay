@@ -1,0 +1,278 @@
+{
+  "id": 9,
+  "topic": "Some people think students should learn practical skills such as cooking, managing money, or repairing things at school. Others believe schools should only focus on academic subjects. give your opinion.",
+  "date": "2026-04-07",
+  "type": "Argumentative",
+  "original_text": "Education plays an important role in people's lives. Some people believe schools should teach practical skills, while others think schools focus only on academic subjects. If we look a general perspective there is so many guide on our life such as teachers, schoolmates even staff. We learned various skills all of people from around us but life and our way of learning has been changed because of the technological improvements and artifical intelligence. \n\nAs the students finish their education at a later age, they start a real life later as well and this brings many problems with it. Some of us do not notice them but it is real. When I was a student in my twenties there were many people in the neighbourhood and they do different jobs during their youth. However, these days young people mostly spend their time playing computer games and chatting on social media. Can you show me a young person who takes care of repair work at home? There are very few of them left around us. People are becoming uninterested in many things anymore. When I first went to the university, I did not know what a credit card was and I spend a lot of money. Managing it was difficult at first, but later I understood how it works. Some things cannot be taught; they are learned through experience.\n\nWe should direct teenagers to right jobs but it depends on their interests, abilities, and what they truly want to do in the future. Schools or universites should give lectures about practical skills to young generation even to children. If this doesn't happen like that, we could lose a generation because of the internet.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [
+      {
+        "wrong": "artifical",
+        "correct": "artificial"
+      },
+      {
+        "wrong": "universites",
+        "correct": "universities"
+      }
+    ],
+    "grammar_mistakes": [
+      {
+        "wrong": "while others think schools focus only on academic subjects",
+        "correct": "while others think schools should focus only on academic subjects"
+      },
+      {
+        "wrong": "If we look a general perspective",
+        "correct": "If we look from a general perspective"
+      },
+      {
+        "wrong": "there is so many guide",
+        "correct": "there are so many guides"
+      },
+      {
+        "wrong": "on our life",
+        "correct": "in our lives"
+      },
+      {
+        "wrong": "schoolmates even staff",
+        "correct": "schoolmates, and even staff"
+      },
+      {
+        "wrong": "We learned various skills all of people from around us",
+        "correct": "We learn various skills from the people around us"
+      },
+      {
+        "wrong": "life and our way of learning has been changed",
+        "correct": "life and our way of learning have changed"
+      },
+      {
+        "wrong": "As the students finish their education at a later age",
+        "correct": "As students finish their education at a later age"
+      },
+      {
+        "wrong": "they start a real life later as well",
+        "correct": "they start their real lives later as well"
+      },
+      {
+        "wrong": "this brings many problems with it",
+        "correct": "this brings many problems"
+      },
+      {
+        "wrong": "Some of us do not notice them but it is real.",
+        "correct": "Some of us do not notice them, but they are real."
+      },
+      {
+        "wrong": "there were many people in the neighbourhood and they do different jobs",
+        "correct": "there were many people in the neighborhood who did different jobs"
+      },
+      {
+        "wrong": "People are becoming uninterested in many things anymore.",
+        "correct": "People are no longer interested in many things."
+      },
+      {
+        "wrong": "When I first went to the university",
+        "correct": "When I first went to university"
+      },
+      {
+        "wrong": "I did not know what a credit card was and I spend a lot of money.",
+        "correct": "I did not know what a credit card was, and I spent a lot of money."
+      },
+      {
+        "wrong": "later I understood how it works.",
+        "correct": "later I understood how it worked."
+      },
+      {
+        "wrong": "We should direct teenagers to right jobs",
+        "correct": "We should direct teenagers to the right jobs"
+      },
+      {
+        "wrong": "but it depends on their interests",
+        "correct": "but this depends on their interests"
+      },
+      {
+        "wrong": "Schools or universites should give lectures",
+        "correct": "Schools and universities should offer lessons"
+      },
+      {
+        "wrong": "to young generation",
+        "correct": "to the younger generation"
+      },
+      {
+        "wrong": "If this doesn't happen like that",
+        "correct": "If this does not happen"
+      },
+      {
+        "wrong": "because of the internet",
+        "correct": "to the internet"
+      }
+    ],
+    "corrected_version": "Education plays an important role in people's lives. Some people believe schools should teach practical skills, while others think schools should focus only on academic subjects. From a general perspective, there are many guides in our lives, such as teachers, schoolmates, and even staff. We learn various skills from the people around us, but life and our way of learning have changed because of technological improvements and artificial intelligence.\n\nAs students finish their education at a later age, they start real life later as well, and this brings many problems. Some of us do not notice them, but they are real. When I was a student in my twenties, there were many people in the neighborhood who did different jobs during their youth. However, these days young people mostly spend their time playing computer games and chatting on social media. Can you show me a young person who takes care of repair work at home? There are very few of them left around us. People are no longer interested in many things. When I first went to university, I did not know what a credit card was, and I spent a lot of money. Managing it was difficult at first, but later I understood how it worked. Some things cannot be taught; they are learned through experience.\n\nWe should direct teenagers to the right jobs, but this depends on their interests, abilities, and what they truly want to do in the future. Schools and universities should offer lessons on practical skills to the younger generation, even to children. If this does not happen, we could lose a generation to the internet. For these reasons, I believe schools should teach practical skills alongside academic subjects.",
+    "scores": {
+      "vocabulary": 7,
+      "grammar": 6,
+      "coherence": 6
+    },
+    "notes": [
+      "State your thesis clearly in the introduction (e.g., say directly whether schools should teach practical skills).",
+      "Keep tenses consistent in a paragraph; avoid switching between past and present unnecessarily.",
+      "Replace rhetorical questions with assertive claims supported by brief examples or data.",
+      "Use precise collocations (e.g., \"offer courses/lessons\" instead of \"give lectures\" for school programs).",
+      "Choose one dialect (US or UK) and keep spelling consistent throughout."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "Opens the topic well but the thesis is implied rather than explicit. Clarify your position in one sentence and preview your main reasons."
+        },
+        {
+          "type": "body",
+          "feedback": "Provides personal observation and contrast between past and present; good coherence within sentences but tense shifts and generalizations weaken the argument. Add one concrete example (e.g., budgeting course outcomes) and briefly acknowledge a counterargument before refuting it."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "Gives a recommendation but could restate the thesis and main reasons more clearly and end with a stronger final sentence calling for action."
+        }
+      ],
+      "overall": "Three paragraphs are appropriate for an argumentative essay, but clearer topic sentences, signposting, and a short counterargument would strengthen the logical flow."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "This essay argues that schools should integrate practical skills with academic study.",
+        "While some prioritize pure academics, I contend that practical skills are essential.",
+        "In my view, a balanced curriculum best prepares students for adult life.",
+        "Given rapid technological change, practical education is no longer optional.",
+        "I maintain that teaching life skills benefits students and society alike."
+      ],
+      "body": [
+        "To begin with, practical courses such as budgeting and cooking build independence.",
+        "Moreover, hands-on learning reinforces theoretical knowledge and motivation.",
+        "For example, learning to manage a credit card can prevent debt in early adulthood.",
+        "By contrast, a purely academic focus may leave graduates unprepared for daily tasks.",
+        "Critics might argue that time is limited; however, short, compulsory modules can address this."
+      ],
+      "conclusion": [
+        "In sum, the benefits of practical education outweigh the drawbacks.",
+        "Therefore, schools should embed basic life skills across the curriculum.",
+        "Ultimately, a balanced approach is the most effective way forward.",
+        "For these reasons, policymakers and educators should act now.",
+        "All things considered, combining theory with practice best equips students for life."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "important",
+        "alternatives": [
+          "crucial",
+          "vital",
+          "pivotal"
+        ]
+      },
+      {
+        "used": "problems",
+        "alternatives": [
+          "challenges",
+          "difficulties",
+          "issues"
+        ]
+      },
+      {
+        "used": "people",
+        "alternatives": [
+          "individuals",
+          "students",
+          "young people"
+        ]
+      },
+      {
+        "used": "do (different jobs)",
+        "alternatives": [
+          "pursue",
+          "undertake",
+          "perform"
+        ]
+      },
+      {
+        "used": "spend their time",
+        "alternatives": [
+          "devote their time",
+          "invest their time",
+          "engage in"
+        ]
+      },
+      {
+        "used": "give lectures",
+        "alternatives": [
+          "offer courses",
+          "provide instruction",
+          "deliver lessons"
+        ]
+      },
+      {
+        "used": "because of",
+        "alternatives": [
+          "due to",
+          "as a result of",
+          "owing to"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "while",
+        "If",
+        "As",
+        "However",
+        "and",
+        "but",
+        "When",
+        "because of",
+        "later",
+        "these days"
+      ],
+      "missing_types": [
+        "examples/illustration",
+        "summary/conclusion",
+        "sequencing",
+        "concession/refutation",
+        "result/inference"
+      ],
+      "suggestions": [
+        "for example",
+        "for instance",
+        "in particular",
+        "therefore",
+        "thus",
+        "as a result",
+        "consequently",
+        "moreover",
+        "furthermore",
+        "nevertheless",
+        "on the other hand",
+        "in conclusion",
+        "overall",
+        "first",
+        "second",
+        "finally"
+      ]
+    },
+    "resolved_mistakes": [
+      {
+        "pattern": "Using plural 'others' correctly in contrast clauses",
+        "example": "Now: \"while others think schools should focus...\" (correct); Essay #7 mistake: \"while other believe it is more effective\" (incorrect)."
+      }
+    ],
+    "still_recurring": [
+      {
+        "pattern": "Using 'young generation' instead of 'younger generation'",
+        "count": 2,
+        "essays": [
+          5
+        ],
+        "example": "Essay #5: \"for the young generation\"; Current essay: \"to young generation even to children\" → should be \"to the younger generation\"."
+      }
+    ],
+    "evaluated_at": "2026-04-07T18:15:30.893542"
+  },
+  "created_at": "2026-04-07T18:12:40.231470"
+}

@@ -1,0 +1,203 @@
+{
+  "id": 3,
+  "topic": "Some people believe that university education should be free for everyone.",
+  "date": "2026-03-26",
+  "type": "General",
+  "original_text": "Education is considered one of the most important factors in personal and societal development. While some people believe that university education should be free for everyone, others argue that students should pay for their studies. In this essay, I will discuss both the advantages and disadvantages of free education. In Türkiye many universities does not have a charge for education. There are different types of university education such as formal, scholarship and evening programs. The reason these programs have different names are their price and class hour. Some schools have classes in the afternoon, while others have them in the evening and it affects  their price for example in Türkiye all formal universities have classes in afternoon and they attention to the name check every lecture. If you have a lower university exam degree you can choose scholarship or semi-scholarship programs but these programs have an annual fee, and the amount varies depending on the department and the year of study. From my perspective all the formal education should be free; however I cannot say the same thing for other types of education because they are generally optional and provided as additional opportunities.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [],
+    "grammar_mistakes": [
+      {
+        "wrong": "In Türkiye many universities does not have a charge for education",
+        "correct": "In Türkiye, many universities do not charge for education"
+      },
+      {
+        "wrong": "The reason these programs have different names are their price and class hour",
+        "correct": "The reason these programs have different names is their price and class hours"
+      },
+      {
+        "wrong": "while others have them in the evening and it affects  their price",
+        "correct": "while others have them in the evening, and this affects their price."
+      },
+      {
+        "wrong": "for example in Türkiye all formal universities have classes in afternoon",
+        "correct": "For example, in Türkiye, all formal universities have classes in the afternoon"
+      },
+      {
+        "wrong": "and they attention to the name check every lecture",
+        "correct": "and they take attendance at every lecture"
+      },
+      {
+        "wrong": "If you have a lower university exam degree",
+        "correct": "If you have a lower university exam score"
+      },
+      {
+        "wrong": "From my perspective all the formal education should be free",
+        "correct": "From my perspective, all formal education should be free"
+      },
+      {
+        "wrong": "however I cannot say the same thing for other types",
+        "correct": "however, I cannot say the same for other types"
+      }
+    ],
+    "corrected_version": "Education is considered one of the most important factors in personal and societal development. While some people believe that university education should be free for everyone, others argue that students should pay for their studies. In this essay, I will discuss both the advantages and disadvantages of free education.\n\nIn Türkiye, many universities do not charge for education. There are different types of university education, such as formal, scholarship, and evening programs. The reason these programs have different names is their price and class hours. Some schools have classes in the afternoon, while others have them in the evening, and this affects their price. For example, in Türkiye, all formal universities have classes in the afternoon, and they take attendance at every lecture. If you have a lower university exam score, you can choose scholarship or semi-scholarship programs, but these programs have an annual fee, and the amount varies depending on the department and the year of study.\n\nFrom my perspective, all formal education should be free; however, I cannot say the same for other types of education because they are generally optional and provided as additional opportunities.",
+    "scores": {
+      "vocabulary": 5,
+      "grammar": 5,
+      "coherence": 5
+    },
+    "notes": [
+      "Break your essay into clear paragraphs — introduction, body, and conclusion should each be visually separated.",
+      "Use commas after introductory phrases (e.g., 'For example,' 'In Türkiye,' 'From my perspective,'). This is a consistent issue throughout the essay.",
+      "The essay prompt asks you to discuss whether university education should be free for everyone, but you mostly describe the Turkish system. Try to include general arguments (economic benefits, equality of opportunity, tax burden) before using Türkiye as a supporting example.",
+      "Add a proper conclusion paragraph that summarizes your position and restates your main argument.",
+      "Be careful with subject-verb agreement: 'universities does' should be 'universities do', and 'the reason... are' should be 'the reason... is'."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "The introduction starts well by presenting the topic and both sides of the argument. The sentence 'I will discuss both the advantages and disadvantages' sets up expectations, but the essay does not actually present clear advantages and disadvantages in a balanced way. Make sure your introduction matches what you deliver in the body."
+        },
+        {
+          "type": "body",
+          "feedback": "The body paragraph describes the Turkish university system in detail (formal, scholarship, evening programs), which provides relevant background. However, it reads more like an informational description than an argumentative essay. You should use this information as a supporting example, not as the main content. Add general arguments about why free education is beneficial or problematic, and then use Türkiye as evidence."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "The final sentence ('From my perspective...') serves as a very brief conclusion but it is not separated as its own paragraph and feels rushed. A proper conclusion should summarize your key arguments and restate your position more fully. Currently it feels like an afterthought rather than a strong closing statement."
+        }
+      ],
+      "overall": "The essay lacks clear paragraph separation — everything is written as one continuous block. An essay of this type should have at least three distinct paragraphs: introduction, body (one or two), and conclusion. The content is too focused on describing the Turkish system rather than arguing for or against free education. The introduction promises a discussion of advantages and disadvantages, but the body does not deliver on this promise."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "There are strong arguments on both sides of this debate.",
+        "This essay will explore the benefits and drawbacks of making university education free.",
+        "The question of whether higher education should be free is widely debated.",
+        "In recent years, the cost of university education has become a major concern."
+      ],
+      "body": [
+        "One of the main advantages of free education is that...",
+        "On the other hand, opponents argue that...",
+        "A good example of this can be seen in Türkiye, where...",
+        "Furthermore, it is worth noting that...",
+        "This is particularly important because..."
+      ],
+      "conclusion": [
+        "In conclusion, I believe that...",
+        "Taking everything into account, free university education...",
+        "All things considered, while there are valid arguments on both sides...",
+        "To sum up, the benefits of free education outweigh the drawbacks because..."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "important",
+        "alternatives": [
+          "essential",
+          "crucial",
+          "vital"
+        ]
+      },
+      {
+        "used": "different",
+        "alternatives": [
+          "various",
+          "diverse",
+          "distinct"
+        ]
+      },
+      {
+        "used": "price",
+        "alternatives": [
+          "tuition fee",
+          "cost",
+          "expense"
+        ]
+      },
+      {
+        "used": "choose",
+        "alternatives": [
+          "opt for",
+          "select",
+          "enroll in"
+        ]
+      },
+      {
+        "used": "affects",
+        "alternatives": [
+          "influences",
+          "determines",
+          "impacts"
+        ]
+      },
+      {
+        "used": "things",
+        "alternatives": [
+          "aspects",
+          "factors",
+          "elements"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "while",
+        "however",
+        "for example",
+        "but",
+        "because",
+        "such as"
+      ],
+      "missing_types": [
+        "cause/effect",
+        "addition",
+        "sequence",
+        "emphasis",
+        "summary/conclusion"
+      ],
+      "suggestions": [
+        "as a result",
+        "consequently",
+        "moreover",
+        "in addition",
+        "firstly / secondly",
+        "in fact",
+        "therefore",
+        "to sum up",
+        "in conclusion"
+      ]
+    },
+    "recurring_mistakes": [
+      {
+        "pattern": "Missing commas after introductory phrases and before conjunctions",
+        "count": 4,
+        "example": "Essay #3: 'In Türkiye many universities' (missing comma) — similar punctuation issues appeared in Essays #1 and #2 with semicolons and commas (e.g., 'First of them is; flexible working hours')"
+      },
+      {
+        "pattern": "Subject-verb agreement errors",
+        "count": 3,
+        "example": "Essay #3: 'universities does not' (should be 'do not') and 'the reason... are' (should be 'is') — similar to Essay #1: 'a software developer who are using' and Essay #2: 'working from home become'"
+      },
+      {
+        "pattern": "Using 'From my perspective' — previously corrected from 'In my perspective'",
+        "count": 2,
+        "example": "Essay #1: 'In my perspective' was corrected to 'From my perspective' — the student has now applied this correction correctly in Essay #3, which is good progress"
+      },
+      {
+        "pattern": "Using 'lots of' or informal quantity expressions",
+        "count": 0,
+        "example": "The student avoided 'lots of' in this essay, which was a frequent issue in Essays #1 and #2 — good improvement"
+      },
+      {
+        "pattern": "Weak essay structure with missing or underdeveloped conclusion",
+        "count": 3,
+        "example": "Essay #3 ends abruptly with one sentence as a conclusion, similar to structural issues in previous essays where ideas were not fully organized into clear paragraphs"
+      }
+    ],
+    "evaluated_at": "2026-03-26T23:16:37.847913"
+  },
+  "created_at": "2026-03-26T23:12:54.655885"
+}

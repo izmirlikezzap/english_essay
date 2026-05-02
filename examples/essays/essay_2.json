@@ -1,0 +1,241 @@
+{
+  "id": 2,
+  "topic": "What are the advantages and disadvantages of working from home?",
+  "date": "2026-03-25",
+  "type": "Opinion",
+  "original_text": "In recent years, working from home become increasingly popular due to advances in technology. While this trend offers several advanteges, it also brings certain disadvantages. It balanced in many company but most of these don't keep up with these working routine. There are three main reasons why people want this. First of them is; flexible working hours. Everyone wants it because you choose the right focusing time. If you have an instant urgent job that time you can stop and do your things. As another example, no more wasting time and waiting for the bus. This is an important approach because lots of people reach their job by public transportation. Last but not least, you can spend more time your family and friends, no dress code etc.\nHowever, let's also consider this from a manager's perspective. If you are owner or manager of a company, you want to track your employee's performance but if they are at home it cannot be possible every time because of the privacy. You cannot watch your employee with camera, it can be illegal in some countries. There are some ways to track people such as; mouse tracking, count keyboard press, etc. lots of them are redundant forwhy you cannot work with someone you don't trust.\nActually, it depends on your management type and employee's character but both of them are okey for me.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [
+      {
+        "wrong": "advanteges",
+        "correct": "advantages"
+      },
+      {
+        "wrong": "okey",
+        "correct": "okay"
+      },
+      {
+        "wrong": "forwhy",
+        "correct": "because"
+      }
+    ],
+    "grammar_mistakes": [
+      {
+        "wrong": "working from home become increasingly popular",
+        "correct": "working from home has become increasingly popular"
+      },
+      {
+        "wrong": "It balanced in many company",
+        "correct": "It is balanced in many companies"
+      },
+      {
+        "wrong": "most of these don't keep up with these working routine",
+        "correct": "most of them don't keep up with this working routine"
+      },
+      {
+        "wrong": "First of them is; flexible working hours",
+        "correct": "The first one is flexible working hours"
+      },
+      {
+        "wrong": "you choose the right focusing time",
+        "correct": "you can choose the right time to focus"
+      },
+      {
+        "wrong": "If you have an instant urgent job that time you can stop and do your things",
+        "correct": "If you have an urgent task at that moment, you can pause and take care of it"
+      },
+      {
+        "wrong": "you can spend more time your family",
+        "correct": "you can spend more time with your family"
+      },
+      {
+        "wrong": "lots of people reach their job by public transportation",
+        "correct": "many people commute to work by public transportation"
+      },
+      {
+        "wrong": "you want to track your employee's performance",
+        "correct": "you want to track your employees' performance"
+      },
+      {
+        "wrong": "it cannot be possible every time",
+        "correct": "it may not always be possible"
+      },
+      {
+        "wrong": "such as; mouse tracking, count keyboard press",
+        "correct": "such as mouse tracking, counting keyboard presses"
+      },
+      {
+        "wrong": "lots of them are redundant",
+        "correct": "most of them are redundant"
+      },
+      {
+        "wrong": "it depends on your management type and employee's character",
+        "correct": "it depends on the management style and the employee's character"
+      },
+      {
+        "wrong": "both of them are okey for me",
+        "correct": "both options are fine with me"
+      }
+    ],
+    "corrected_version": "In recent years, working from home has become increasingly popular due to advances in technology. While this trend offers several advantages, it also brings certain disadvantages. It is balanced in many companies, but most of them don't keep up with this working routine. There are three main reasons why people want this. The first one is flexible working hours. Everyone wants it because you can choose the right time to focus. If you have an urgent task at that moment, you can pause and take care of it. As another example, you no longer waste time waiting for the bus. This is an important point because many people commute to work by public transportation. Last but not least, you can spend more time with your family and friends, and there is no dress code.\nHowever, let's also consider this from a manager's perspective. If you are the owner or manager of a company, you want to track your employees' performance, but if they are at home, it may not always be possible because of privacy. You cannot watch your employees with a camera; it can be illegal in some countries. There are some ways to track people, such as mouse tracking or counting keyboard presses, but most of them are redundant because you cannot work with someone you don't trust.\nIn conclusion, it depends on the management style and the employee's character, but both options are fine with me.",
+    "scores": {
+      "vocabulary": 5,
+      "grammar": 4,
+      "coherence": 5
+    },
+    "notes": [
+      "Always check for missing auxiliary verbs: 'become' needs 'has become' in present perfect tense. Read your sentences aloud and ask 'does this sound complete?'",
+      "Avoid using semicolons to introduce lists or connect ideas — use commas or colons instead. Semicolons join two independent clauses.",
+      "Your conclusion is only one sentence. Expand it by briefly restating your main points and giving a clearer final opinion.",
+      "Watch out for missing prepositions: 'spend more time your family' needs 'with'. After writing, check each verb for its required preposition.",
+      "Use more formal linking words (Furthermore, On the other hand, In contrast) instead of casual transitions like 'Actually' and 'As another example' to strengthen academic tone."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "Your opening sentence is good and sets the context well. However, the sentence 'It balanced in many company but most of these don't keep up with these working routine' is unclear and grammatically broken. The introduction should clearly state your thesis — whether you believe the advantages outweigh the disadvantages or vice versa. Right now, it shifts into listing reasons too quickly without a clear thesis statement."
+        },
+        {
+          "type": "body",
+          "feedback": "Your first body paragraph lists three advantages (flexible hours, no commute, more family time), which is a solid approach. However, the examples could be developed more deeply — each advantage gets only one or two sentences. Try to give a specific example or explain the impact for each point. Your second body paragraph about the manager's perspective is actually your strongest paragraph. The argument about trust vs. surveillance is insightful and well-reasoned. However, the transition between paragraphs could be smoother."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "Your conclusion ('Actually, it depends...') is far too short and informal for an essay. It reads more like a casual comment than a proper conclusion. A good conclusion should summarize your key arguments, restate your position clearly, and leave the reader with a final thought. Avoid starting a conclusion with 'Actually' as it sounds conversational."
+        }
+      ],
+      "overall": "The essay has a recognizable three-part structure (intro, advantages, disadvantages), which is good. However, the introduction lacks a clear thesis, the body paragraphs are uneven in development, and the conclusion is underdeveloped. The transition from advantages to disadvantages is handled well with 'However, let's also consider this from a manager's perspective.' Work on balancing paragraph lengths and strengthening your opening and closing."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "In this essay, I will discuss both the advantages and disadvantages of...",
+        "This essay will examine the benefits and drawbacks of...",
+        "Although working from home has clear benefits, it also presents significant challenges.",
+        "There are compelling arguments on both sides of this debate.",
+        "While some people argue that... others believe that..."
+      ],
+      "body": [
+        "One of the most significant advantages is...",
+        "Furthermore, it is worth noting that...",
+        "On the other hand, there are notable disadvantages.",
+        "From an employer's standpoint, the main concern is...",
+        "In addition to this, another key benefit is..."
+      ],
+      "conclusion": [
+        "In conclusion, while working from home offers flexibility, it also requires discipline.",
+        "To sum up, both options have their merits and drawbacks.",
+        "All things considered, I believe that...",
+        "Ultimately, the success of remote work depends on...",
+        "Taking everything into account, a balanced approach would be..."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "lots of",
+        "alternatives": [
+          "numerous",
+          "a significant number of",
+          "many"
+        ]
+      },
+      {
+        "used": "things",
+        "alternatives": [
+          "tasks",
+          "responsibilities",
+          "personal matters"
+        ]
+      },
+      {
+        "used": "track",
+        "alternatives": [
+          "monitor",
+          "evaluate",
+          "oversee"
+        ]
+      },
+      {
+        "used": "important",
+        "alternatives": [
+          "crucial",
+          "significant",
+          "essential"
+        ]
+      },
+      {
+        "used": "want",
+        "alternatives": [
+          "prefer",
+          "desire",
+          "seek"
+        ]
+      },
+      {
+        "used": "job",
+        "alternatives": [
+          "task",
+          "responsibility",
+          "occupation"
+        ]
+      },
+      {
+        "used": "ways",
+        "alternatives": [
+          "methods",
+          "approaches",
+          "strategies"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "While",
+        "However",
+        "First of them",
+        "As another example",
+        "Last but not least",
+        "Actually",
+        "but"
+      ],
+      "missing_types": [
+        "cause/effect (therefore, as a result, consequently)",
+        "addition (furthermore, moreover, in addition)",
+        "emphasis (indeed, in fact, notably)",
+        "summary (in conclusion, to sum up, overall)"
+      ],
+      "suggestions": [
+        "Therefore",
+        "Furthermore",
+        "Moreover",
+        "As a result",
+        "In contrast",
+        "Nevertheless",
+        "In conclusion",
+        "Consequently",
+        "On the other hand",
+        "Indeed"
+      ]
+    },
+    "recurring_mistakes": [
+      {
+        "pattern": "Using 'Actually, it depends on...' as a weak conclusion",
+        "count": 2,
+        "example": "Essay #1: 'Actually it depends on your side' → Essay #2: 'Actually, it depends on your management type'. Both essays use 'Actually' to start an underdeveloped conclusion."
+      },
+      {
+        "pattern": "Using 'Lots of people' in informal register",
+        "count": 2,
+        "example": "Essay #1: 'Lots of people don't determine the text' → Essay #2: 'lots of people reach their job'. Use 'Many people' instead of 'Lots of people' in academic writing."
+      },
+      {
+        "pattern": "Missing prepositions or incorrect preposition use",
+        "count": 2,
+        "example": "Essay #1: 'In my perspective' (should be 'From my perspective') → Essay #2: 'spend more time your family' (missing 'with')"
+      }
+    ],
+    "evaluated_at": "2026-03-26T05:36:34.368954"
+  },
+  "created_at": "2026-03-25T10:00:00"
+}

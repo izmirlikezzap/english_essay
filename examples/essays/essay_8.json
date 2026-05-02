@@ -1,0 +1,242 @@
+{
+  "id": 8,
+  "topic": "Some people think homework is important for students. Others believe students should not receive homework.",
+  "date": "2026-04-07",
+  "type": "Opinion",
+  "original_text": "Homework has always been an important part of education. Some people believe that homework helps students learn better, while others think students should not receive homework. Children learn many things at school and sometimes it is difficult for them remember everything when they come home because of that lecturers choose homework to reinforcement. \n\nIn my opinion, homework is beneficial for students if it is given in a reasonable amount but it should be completed within the first two days it is given. Otherwise, they may forget what they learned at school. There are 3 stages in learning. First, students learn during the lesson and about five or six hours later they reinforce it at home. The final stage is remembering it after a long time. If the second stage takes longer, students may forget some of the information they learned in class because of that lecturer gives daily task or homework but if there are many lessons in a day and child has homework all of them it will be tedious. Every children learn at school and understand while playing games with their friends.\n\nHomework is useful when it is completed soon after the lesson because it helps students reinforce what they learned in class. Therefore, whether you are a parent or a student, you should pay attention to this.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [],
+    "grammar_mistakes": [
+      {
+        "wrong": "sometimes it is difficult for them remember everything",
+        "correct": "sometimes it is difficult for them to remember everything"
+      },
+      {
+        "wrong": "when they come home because of that lecturers choose homework to reinforcement",
+        "correct": "when they come home. For this reason, teachers assign homework for reinforcement"
+      },
+      {
+        "wrong": "to reinforcement",
+        "correct": "to reinforce learning / for reinforcement"
+      },
+      {
+        "wrong": "In my opinion, homework is beneficial for students if it is given in a reasonable amount but it should be completed within the first two days it is given.",
+        "correct": "In my opinion, homework is beneficial for students if it is given in reasonable amounts, but it should be completed within the first two days after it is assigned."
+      },
+      {
+        "wrong": "First, students learn during the lesson and about five or six hours later they reinforce it at home.",
+        "correct": "First, students learn during the lesson, and about five or six hours later, they reinforce it at home."
+      },
+      {
+        "wrong": "The final stage is remembering it after a long time.",
+        "correct": "The final stage is remembering it over the long term."
+      },
+      {
+        "wrong": "If the second stage takes longer, students may forget some of the information they learned in class because of that lecturer gives daily task or homework",
+        "correct": "If the second stage takes too long, students may forget some of the information they learned in class. For this reason, teachers give daily tasks or homework"
+      },
+      {
+        "wrong": "but if there are many lessons in a day and child has homework all of them it will be tedious.",
+        "correct": "but if there are many lessons in a day and a child has homework for all of them, it will be tedious."
+      },
+      {
+        "wrong": "Every children learn at school and understand while playing games with their friends.",
+        "correct": "Every child learns at school, and they also learn while playing games with their friends."
+      },
+      {
+        "wrong": "lecturer gives daily task or homework",
+        "correct": "teachers give daily tasks or homework"
+      },
+      {
+        "wrong": "There are 3 stages in learning.",
+        "correct": "There are three stages in learning."
+      },
+      {
+        "wrong": "you should pay attention to this.",
+        "correct": "you should keep this in mind."
+      }
+    ],
+    "corrected_version": "Homework has always been an important part of education. Some people believe that homework helps students learn better, while others think students should not receive homework. Children learn many things at school, and sometimes it is difficult for them to remember everything when they come home. For this reason, teachers assign homework to reinforce learning.\n\nIn my opinion, homework is beneficial for students if it is given in reasonable amounts, but it should be completed within the first two days after it is assigned. Otherwise, they may forget what they learned at school. There are three stages in learning. First, students learn during the lesson, and about five or six hours later, they reinforce it at home. The final stage is remembering it over the long term. If the second stage takes too long, students may forget some of the information they learned in class. For this reason, teachers give daily tasks or homework. However, if there are many lessons in a day and a child has homework for all of them, it will be tedious. All children learn at school, and they also learn while playing games with their friends.\n\nHomework is useful when it is completed soon after the lesson because it helps students reinforce what they learned in class. Therefore, whether you are a parent or a student, you should keep this in mind.",
+    "scores": {
+      "vocabulary": 7,
+      "grammar": 6,
+      "coherence": 7
+    },
+    "notes": [
+      "Break long sentences into two and use commas to avoid run‑ons (e.g., after introductory words like First, However, Therefore).",
+      "Use correct singular/plural forms: say Every child or All children, not Every children.",
+      "Prefer teachers/assign to lecturers/choose in a school context to sound natural.",
+      "Write out small numbers in essays (three, not 3) and add a brief example to support your opinion.",
+      "Use the infinitive with to after adjectives or nouns (for them to remember)."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "Clear topic framing with both sides mentioned and your stance implied. Strengthen by adding one precise thesis line that states your opinion and the key reason (timely homework reinforces learning)."
+        },
+        {
+          "type": "body",
+          "feedback": "Logical sequence with a three‑stage learning idea. Improve by fixing run‑on sentences, using precise school terms (teachers assign), and adding one short example (e.g., reviewing math problems the same evening). Also balance with a contrast sentence about overload to show nuance."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "Restates the main point succinctly. Make it stronger by directly repeating your opinion and giving a practical takeaway (limit homework to a manageable amount and complete it within two days)."
+        }
+      ],
+      "overall": "Three‑paragraph opinion structure works well. Transitions are present but repetitive; vary them and support the central claim with one concrete example or brief evidence to improve persuasiveness."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "In my view, homework plays a vital role in learning.",
+        "I firmly believe that timely homework benefits students.",
+        "This essay argues that homework, in moderation, is effective.",
+        "While some oppose homework, I contend it reinforces lessons.",
+        "From an educational perspective, well‑timed homework improves retention."
+      ],
+      "body": [
+        "First and foremost, completing tasks soon after class consolidates learning.",
+        "Furthermore, a manageable workload prevents student burnout.",
+        "For instance, revising key concepts the same evening improves recall.",
+        "However, excessive assignments across all subjects become counterproductive.",
+        "As a result, schools should set clear limits on daily homework."
+      ],
+      "conclusion": [
+        "In conclusion, reasonable and timely homework strengthens understanding.",
+        "To sum up, students benefit most when homework is limited and prompt.",
+        "Ultimately, moderation and timing determine homework’s effectiveness.",
+        "For these reasons, I support homework completed within two days.",
+        "Therefore, schools and families should prioritize quality over quantity."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "important",
+        "alternatives": [
+          "crucial",
+          "vital",
+          "significant"
+        ]
+      },
+      {
+        "used": "beneficial",
+        "alternatives": [
+          "advantageous",
+          "constructive",
+          "valuable"
+        ]
+      },
+      {
+        "used": "reasonable amount",
+        "alternatives": [
+          "manageable amount",
+          "moderate amount",
+          "appropriate amount"
+        ]
+      },
+      {
+        "used": "learn better",
+        "alternatives": [
+          "deepen their understanding",
+          "consolidate learning",
+          "improve retention"
+        ]
+      },
+      {
+        "used": "remember",
+        "alternatives": [
+          "retain",
+          "recall",
+          "remember accurately"
+        ]
+      },
+      {
+        "used": "useful",
+        "alternatives": [
+          "effective",
+          "valuable",
+          "productive"
+        ]
+      },
+      {
+        "used": "tedious",
+        "alternatives": [
+          "overwhelming",
+          "burdensome",
+          "exhausting"
+        ]
+      },
+      {
+        "used": "because of that",
+        "alternatives": [
+          "for this reason",
+          "as a result",
+          "therefore"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "while",
+        "because of that",
+        "In my opinion",
+        "Otherwise",
+        "First",
+        "The final stage",
+        "Therefore",
+        "because",
+        "if",
+        "but",
+        "and",
+        "when"
+      ],
+      "missing_types": [
+        "contrast/concession",
+        "addition",
+        "example/illustration",
+        "clear sequence markers beyond 'First'",
+        "result/consequence variety",
+        "emphasis"
+      ],
+      "suggestions": [
+        "However",
+        "On the other hand",
+        "In contrast",
+        "Moreover",
+        "In addition",
+        "For example",
+        "For instance",
+        "Secondly",
+        "Finally",
+        "Consequently",
+        "As a result",
+        "In particular",
+        "Notably",
+        "That said"
+      ]
+    },
+    "resolved_mistakes": [
+      {
+        "pattern": "Plural 'others' after 'while'",
+        "example": "Previously: 'while other believe it is more effective' → Now: 'while others think students should not receive homework'"
+      },
+      {
+        "pattern": "Idiomatic stance phrase",
+        "example": "Previously: 'In my perspective, the earlier...' → Now: 'In my opinion, ...'"
+      }
+    ],
+    "still_recurring": [
+      {
+        "pattern": "Singular/plural agreement with child/children",
+        "count": 2,
+        "essays": [
+          7
+        ],
+        "example": "Essay 7: 'when they are a baby or children' → Current essay: 'Every children learn at school'."
+      }
+    ],
+    "evaluated_at": "2026-04-07T17:50:24.832016"
+  },
+  "created_at": "2026-04-07T09:50:08.336036"
+}

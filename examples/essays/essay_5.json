@@ -1,0 +1,217 @@
+{
+  "id": 5,
+  "topic": "Some people think that social media has a negative effect on young people. Others believe it has many benefits.",
+  "date": "2026-03-29",
+  "type": "Argumentative",
+  "original_text": "Social media has become an essential part of modern life, especially for the young generation. While some individuals believe that it has harmful effects, others argue that it provides significant benefits. Actually, this situation depends on your age because if you are younger than 18 it can directly effect your habits, plans, or etc. However, I cannot say same for other ages between 18 and 25. \n\nSchool-age young people can directly be influenced by content on their social accounts such as Instagram, Tiktok or Facebook. There are many videos and photos on social media that cannot be fully controlled or filtered. Some people think they can control themselves, but this is not convincing at all because once you start scrolling on social media, it becomes very difficult to stop it. \n\nSome young people create content on social media and earn money from it. If it is guided correctly, people can gradually learn from it and turn into a regular job; however, like everything else, it also has its own complexities. At the same time, it can help people gain self-confidence and express themselves more comfortably.\n\nEvery innovation contains both negative and positive sides but you can choose which one you experience. At the end of the day, the effect you get from it depends on how you use it.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [
+      {
+        "wrong": "effect",
+        "correct": "affect"
+      }
+    ],
+    "grammar_mistakes": [
+      {
+        "wrong": "for the young generation",
+        "correct": "for the younger generation"
+      },
+      {
+        "wrong": "it can directly effect your habits, plans, or etc.",
+        "correct": "it can directly affect your habits, plans, etc."
+      },
+      {
+        "wrong": "I cannot say same for other ages",
+        "correct": "I cannot say the same for other ages"
+      },
+      {
+        "wrong": "people can gradually learn from it and turn into a regular job",
+        "correct": "people can gradually learn from it and turn it into a regular job"
+      },
+      {
+        "wrong": "Every innovation contains both negative and positive sides but you can choose",
+        "correct": "Every innovation has both negative and positive sides, but you can choose"
+      },
+      {
+        "wrong": "the effect you get from it depends on how you use it",
+        "correct": "the effect you get from it depends on how you use it."
+      }
+    ],
+    "corrected_version": "Social media has become an essential part of modern life, especially for the younger generation. While some individuals believe that it has harmful effects, others argue that it provides significant benefits. Actually, this situation depends on your age because if you are younger than 18, it can directly affect your habits, plans, etc. However, I cannot say the same for other ages between 18 and 25.\n\nSchool-age young people can be directly influenced by content on their social media accounts such as Instagram, TikTok, or Facebook. There are many videos and photos on social media that cannot be fully controlled or filtered. Some people think they can control themselves, but this is not convincing at all because once you start scrolling on social media, it becomes very difficult to stop.\n\nSome young people create content on social media and earn money from it. If it is guided correctly, people can gradually learn from it and turn it into a regular job; however, like everything else, it also has its own complexities. At the same time, it can help people gain self-confidence and express themselves more comfortably.\n\nEvery innovation has both negative and positive sides, but you can choose which one you experience. At the end of the day, the effect you get from it depends on how you use it.",
+    "scores": {
+      "vocabulary": 6,
+      "grammar": 6,
+      "coherence": 6
+    },
+    "notes": [
+      "Learn the difference between 'affect' (verb: to influence) and 'effect' (noun: result). A helpful trick: Affect = Action, Effect = End result.",
+      "Your thesis in the introduction is unclear — you seem to argue it depends on age, but this point is not developed in the body paragraphs. Make sure your thesis matches what you actually discuss.",
+      "Each body paragraph should start with a clear topic sentence that directly supports your thesis. Try stating your claim first, then providing evidence.",
+      "Your conclusion is too short and generic. Restate your main argument and briefly summarize your key points instead of offering a general statement.",
+      "Practice using 'or etc.' is incorrect — 'etc.' already means 'and other things,' so never put 'or' before it."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "You introduce the topic clearly and present both sides, which is good for an argumentative essay. However, your thesis statement is confusing — you argue the impact depends on age (under 18 vs. 18–25), but this age-based argument is never revisited in the body paragraphs. A strong argumentative essay needs a clear position stated in the introduction."
+        },
+        {
+          "type": "body",
+          "feedback": "Your first body paragraph discusses the negative influence of social media content on school-age users. The point about scrolling being addictive is relatable but lacks a concrete example or evidence. Your second body paragraph shifts to the positive side — earning money and gaining confidence through content creation. The transition between the two paragraphs is abrupt. Neither paragraph ties back to your thesis about age groups."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "The conclusion is only two sentences and feels rushed. It offers a generic 'it depends on how you use it' statement without summarizing your actual arguments. A stronger conclusion would restate your position and briefly reference the points you made in the body."
+        }
+      ],
+      "overall": "The essay has a basic four-paragraph structure, but the argument lacks a clear through-line. The thesis introduces an age-based argument that the body paragraphs do not support. Each paragraph touches on a different aspect (negative effects, positive effects) but they feel disconnected from each other and from the introduction. Work on making your thesis, body paragraphs, and conclusion all align around one clear argument."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "In my opinion, the drawbacks of social media far outweigh its benefits for young people.",
+        "I strongly believe that social media, when used responsibly, offers more advantages than disadvantages.",
+        "This essay will argue that...",
+        "While both sides have valid points, I believe that...",
+        "The impact of social media on young people has become one of the most debated topics in recent years."
+      ],
+      "body": [
+        "One of the main reasons I hold this view is that...",
+        "To illustrate this point, consider the fact that...",
+        "On the other hand, it must be acknowledged that...",
+        "Furthermore, research has shown that...",
+        "A clear example of this can be seen when..."
+      ],
+      "conclusion": [
+        "In conclusion, while social media has its risks, the benefits cannot be ignored.",
+        "To sum up, the evidence presented above clearly shows that...",
+        "All things considered, I maintain that...",
+        "Ultimately, the responsibility lies with both individuals and society to...",
+        "Taking everything into account, it is clear that..."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "harmful effects",
+        "alternatives": [
+          "detrimental effects",
+          "adverse effects",
+          "damaging consequences"
+        ]
+      },
+      {
+        "used": "significant benefits",
+        "alternatives": [
+          "substantial advantages",
+          "considerable merits",
+          "noteworthy benefits"
+        ]
+      },
+      {
+        "used": "earn money",
+        "alternatives": [
+          "generate income",
+          "make a living",
+          "monetize their content"
+        ]
+      },
+      {
+        "used": "regular job",
+        "alternatives": [
+          "full-time career",
+          "sustainable profession",
+          "steady occupation"
+        ]
+      },
+      {
+        "used": "gain self-confidence",
+        "alternatives": [
+          "develop self-assurance",
+          "build confidence",
+          "boost their self-esteem"
+        ]
+      },
+      {
+        "used": "very difficult",
+        "alternatives": [
+          "extremely challenging",
+          "nearly impossible",
+          "remarkably hard"
+        ]
+      },
+      {
+        "used": "essential part",
+        "alternatives": [
+          "integral part",
+          "indispensable aspect",
+          "fundamental element"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "while",
+        "however",
+        "actually",
+        "because",
+        "but",
+        "at the same time",
+        "at the end of the day",
+        "such as",
+        "if",
+        "like"
+      ],
+      "missing_types": [
+        "cause/effect",
+        "addition/emphasis",
+        "exemplification",
+        "concession"
+      ],
+      "suggestions": [
+        "as a result",
+        "consequently",
+        "moreover",
+        "in addition",
+        "for instance",
+        "although",
+        "despite this",
+        "nevertheless",
+        "in contrast",
+        "therefore"
+      ]
+    },
+    "resolved_mistakes": [
+      {
+        "pattern": "Capitalizing brand names correctly",
+        "example": "Previously wrote 'instagram' (Essay #4), now correctly writes 'Instagram'"
+      },
+      {
+        "pattern": "Using comma after 'however' at the start of a sentence",
+        "example": "Previously wrote 'however I cannot say' without a comma (Essay #3), now correctly writes 'However, I cannot say'"
+      }
+    ],
+    "still_recurring": [
+      {
+        "pattern": "Missing article before 'same'",
+        "count": 2,
+        "essays": [
+          3,
+          5
+        ],
+        "example": "Essay #3: 'however I cannot say the same thing' was corrected to include 'the same'. Essay #5: 'I cannot say same for other ages' — still drops 'the' before 'same'"
+      },
+      {
+        "pattern": "Affect vs. effect confusion / word form errors",
+        "count": 2,
+        "essays": [
+          4,
+          5
+        ],
+        "example": "Essay #4 had various word form issues. Essay #5: 'it can directly effect your habits' — used 'effect' (noun) instead of 'affect' (verb)"
+      }
+    ],
+    "evaluated_at": "2026-03-29T11:10:33.063312"
+  },
+  "created_at": "2026-03-29T10:53:53.996229"
+}

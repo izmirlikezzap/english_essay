@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="dashboard">
+  {% if essays %}
+    <div class="essay-grid">
+      {% for e in essays %}
+      <a href="/essay/{{ e.id }}" class="essay-card">
+        <div class="card-header">
+          <span class="card-num">#{{ e.id }}</span>
+          <span class="badge badge-{{ e.status }}">
+            {% if e.status == 'evaluated' %}Evaluated
+            {% elif e.status == 'evaluating' %}Evaluating...
+            {% elif e.status == 'error' %}Error
+            {% else %}Pending{% endif %}
+          </span>
+        </div>
+        <h3 class="card-topic">{{ e.topic }}</h3>
+        <div class="card-meta">
+          <span>{{ e.date }}</span>
+          <span>{{ e.type }}</span>
+        </div>
+        {% if e.evaluation and e.evaluation.scores %}
+        <div class="card-scores">
+          <div class="mini-score">
+            <span class="mini-label">V</span>
+            <span class="mini-val">{{ e.evaluation.scores.vocabulary }}</span>
+          </div>
+          <div class="mini-score">
+            <span class="mini-label">G</span>
+            <span class="mini-val">{{ e.evaluation.scores.grammar }}</span>
+          </div>
+          <div class="mini-score">
+            <span class="mini-label">C</span>
+            <span class="mini-val">{{ e.evaluation.scores.coherence }}</span>
+          </div>
+        </div>
+        {% endif %}
+        <p class="card-preview">{{ e.original_text[:120] }}{% if e.original_text|length > 120 %}...{% endif %}</p>
+      </a>
+      {% endfor %}
+    </div>
+  {% else %}
+    <div class="empty-state">
+      <h2>No essays yet</h2>
+      <p>Start writing your first essay to practice English.</p>
+      <a href="/write" class="btn btn-primary">Write Your First Essay</a>
+    </div>
+  {% endif %}
+</div>
+{% endblock %}

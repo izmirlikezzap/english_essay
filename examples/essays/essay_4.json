@@ -1,0 +1,240 @@
+{
+  "id": 4,
+  "topic": "What are the problems caused by excessive smartphone use, and what solutions can help reduce this problem?",
+  "date": "2026-03-28",
+  "type": "Argumentative",
+  "original_text": "In recent years, smartphone usage has increased dramatically around the world. While these devices provide many benefits, excessive use can lead to several problems in people's daily lives.  After last decade it transforms to an addiction from habit or usage. Some people cannot control themselves, and when there is no notification, they unlock the phone and just a look. Many of my friends tell me they think they have received a message or notificaiton when they opened their phones while they're on the table, but they see nothing. These situation can lead to excessive control and distractibiliy in people. In Agust 2016, instagram announced a new feature called story. It means that you post a photo or video on your account, and it disappears after 24 hours. All of these examples tell me lots of thing about over consumption for social contents. \n\nSome people aware of them when they used their phone they restrict themselves with screen time but it is too easy to unlock. Actually, restricting something doesn't solve the real problem, it will only postpone it. From my point of view, if we do not spend our spare time with valuable works, exercises or activites everyone can fall this social gap. There are lots of social clubs in our university, city even district. We can attend their activities or programs and meet new friends. The root cause of these kinds of problems is a lack of self-confidence or inability to take action.\n\nIn conclusion, I believe that if you are a person who has a small tiny courageousness inside your heart you can do whatever you want. Just do it!",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [
+      {
+        "wrong": "notificaiton",
+        "correct": "notification"
+      },
+      {
+        "wrong": "distractibiliy",
+        "correct": "distractibility"
+      },
+      {
+        "wrong": "Agust",
+        "correct": "August"
+      },
+      {
+        "wrong": "activites",
+        "correct": "activities"
+      },
+      {
+        "wrong": "instagram",
+        "correct": "Instagram"
+      }
+    ],
+    "grammar_mistakes": [
+      {
+        "wrong": "After last decade it transforms to an addiction from habit or usage",
+        "correct": "Over the last decade, it has transformed from a habit into an addiction"
+      },
+      {
+        "wrong": "they unlock the phone and just a look",
+        "correct": "they unlock the phone and just take a look"
+      },
+      {
+        "wrong": "when they opened their phones while they're on the table",
+        "correct": "when they check their phones lying on the table"
+      },
+      {
+        "wrong": "These situation can lead to excessive control",
+        "correct": "These situations can lead to excessive checking behavior"
+      },
+      {
+        "wrong": "All of these examples tell me lots of thing about over consumption for social contents",
+        "correct": "All of these examples tell me a lot about the overconsumption of social content"
+      },
+      {
+        "wrong": "Some people aware of them when they used their phone they restrict themselves",
+        "correct": "Some people, when they become aware of how much they use their phones, restrict themselves"
+      },
+      {
+        "wrong": "if we do not spend our spare time with valuable works, exercises or activites everyone can fall this social gap",
+        "correct": "if we do not spend our spare time on valuable activities, exercises, or hobbies, everyone can fall into this social trap"
+      },
+      {
+        "wrong": "There are lots of social clubs in our university, city even district",
+        "correct": "There are many social clubs in our university, city, and even our district"
+      },
+      {
+        "wrong": "a small tiny courageousness inside your heart",
+        "correct": "even a small amount of courage in your heart"
+      }
+    ],
+    "corrected_version": "In recent years, smartphone usage has increased dramatically around the world. While these devices provide many benefits, excessive use can lead to several problems in people's daily lives. Over the last decade, it has transformed from a habit into an addiction. Some people cannot control themselves, and even when there is no notification, they unlock their phone just to take a look. Many of my friends tell me they think they have received a message or notification when they check their phones lying on the table, but they see nothing. These situations can lead to excessive checking behavior and distractibility. In August 2016, Instagram announced a new feature called Stories. It means that you post a photo or video on your account, and it disappears after 24 hours. All of these examples tell me a lot about the overconsumption of social content.\n\nSome people, when they become aware of how much they use their phones, restrict themselves with screen time, but it is too easy to unlock. Actually, restricting something does not solve the real problem — it will only postpone it. From my point of view, if we do not spend our spare time on valuable activities, exercises, or hobbies, everyone can fall into this social trap. There are many social clubs in our university, city, and even our district. We can attend their activities or programs and meet new friends. The root cause of these kinds of problems is a lack of self-confidence or the inability to take action.\n\nIn conclusion, I believe that if you are someone who has even a small amount of courage in your heart, you can achieve whatever you want. Taking the first step is all that matters.",
+    "scores": {
+      "vocabulary": 6,
+      "grammar": 4,
+      "coherence": 5
+    },
+    "notes": [
+      "Every sentence needs a clear subject AND verb — check for missing verbs like 'are' (e.g., 'Some people aware' must be 'Some people are aware'). This is still appearing across multiple essays.",
+      "Replace 'lots of' with 'many' or 'numerous' in formal writing — this informal phrase has been corrected in previous essays but keeps returning.",
+      "Separate your body paragraph into two: one for problems, one for solutions. Right now both ideas are mixed together, which weakens each argument.",
+      "Use cause-and-effect transitions such as 'as a result', 'consequently', and 'therefore' to show how one idea leads to another.",
+      "Your conclusion needs 2–3 full sentences that summarize your key points. Slogans like 'Just do it!' are too informal for an academic essay — save them for social media."
+    ],
+    "structure": {
+      "paragraphs": [
+        {
+          "type": "introduction",
+          "feedback": "The opening sentence is strong and sets the topic clearly. However, the paragraph is too long and overloaded — it introduces the problem, gives personal anecdotes, and discusses a specific Instagram feature all at once. The Instagram Stories example feels abrupt and needs a clearer link to the overarching argument. Consider ending the introduction after establishing the main problem, and moving the examples into a dedicated body paragraph."
+        },
+        {
+          "type": "body",
+          "feedback": "This single body paragraph attempts to cover both solutions (screen time restrictions, social clubs) and a root cause (lack of self-confidence), which is ambitious but creates a rushed, disconnected effect. The transition from 'screen time doesn't work' to 'join social clubs' is unclear. The final sentence about self-confidence is the most insightful idea in the essay but appears without any development — it deserves its own paragraph or at least two or three supporting sentences."
+        },
+        {
+          "type": "conclusion",
+          "feedback": "The conclusion is too short and too informal for an argumentative essay. 'Just do it!' reads as a brand slogan rather than a thoughtful closing argument. A proper conclusion should briefly restate the problems you identified, summarize your proposed solutions, and end with a forward-looking or thought-provoking statement. Aim for at least 3 sentences."
+        }
+      ],
+      "overall": "The essay has a recognizable three-part structure, which is a good foundation. However, it would benefit from at least four paragraphs total: an introduction, one paragraph on problems, one paragraph on solutions, and a conclusion. Personal examples (friends checking phones, Instagram Stories) are engaging and original, but they need to be tied back to the central argument more explicitly. Transitions between ideas are weak throughout — the reader must work hard to follow the logic."
+    },
+    "suggested_phrases": {
+      "introduction": [
+        "In this essay, I will argue that excessive smartphone use causes serious problems and that practical solutions exist.",
+        "Smartphone addiction has become one of the most pressing issues of our time.",
+        "While technology offers undeniable benefits, its overuse has led to significant social and psychological consequences.",
+        "This essay will examine the main problems caused by smartphone overuse and propose possible solutions.",
+        "The negative effects of this growing trend cannot be overlooked."
+      ],
+      "body": [
+        "One of the most significant problems caused by excessive smartphone use is...",
+        "A practical solution to this issue would be...",
+        "Furthermore, research suggests that spending time on offline activities can significantly reduce...",
+        "On the other hand, some may argue that...; however, this approach fails to address the root cause.",
+        "This problem can be effectively addressed by..."
+      ],
+      "conclusion": [
+        "In conclusion, it is clear that excessive smartphone use poses serious risks to our well-being.",
+        "To summarize, the problems caused by smartphone overuse are significant, but they can be overcome with conscious effort.",
+        "It is therefore essential that individuals take responsibility for their own screen habits.",
+        "Only by raising awareness and embracing healthier daily habits can we reduce the negative impact of smartphones on our lives."
+      ]
+    },
+    "vocabulary_suggestions": [
+      {
+        "used": "lots of",
+        "alternatives": [
+          "many",
+          "numerous",
+          "a great number of"
+        ]
+      },
+      {
+        "used": "problems",
+        "alternatives": [
+          "challenges",
+          "consequences",
+          "drawbacks",
+          "issues"
+        ]
+      },
+      {
+        "used": "look (just a look)",
+        "alternatives": [
+          "glance",
+          "quick check",
+          "peek"
+        ]
+      },
+      {
+        "used": "valuable",
+        "alternatives": [
+          "productive",
+          "meaningful",
+          "beneficial",
+          "enriching"
+        ]
+      },
+      {
+        "used": "fall (fall this social gap)",
+        "alternatives": [
+          "fall into",
+          "succumb to",
+          "be drawn into"
+        ]
+      },
+      {
+        "used": "courageousness",
+        "alternatives": [
+          "courage",
+          "determination",
+          "resolve"
+        ]
+      },
+      {
+        "used": "over consumption",
+        "alternatives": [
+          "overconsumption",
+          "excessive use",
+          "overindulgence"
+        ]
+      }
+    ],
+    "linking_words": {
+      "used": [
+        "While",
+        "but",
+        "Actually",
+        "From my point of view",
+        "if",
+        "even",
+        "In conclusion"
+      ],
+      "missing_types": [
+        "cause and effect (therefore, as a result, consequently, this leads to)",
+        "contrast (however, on the other hand, in contrast, despite this)",
+        "addition (furthermore, moreover, in addition, what is more)",
+        "concession (although, even though, admittedly, despite the fact that)"
+      ],
+      "suggestions": [
+        "therefore",
+        "consequently",
+        "however",
+        "moreover",
+        "in addition",
+        "as a result",
+        "on the other hand",
+        "furthermore",
+        "despite this",
+        "in contrast",
+        "this leads to"
+      ]
+    },
+    "resolved_mistakes": [
+      {
+        "pattern": "Missing comma after introductory prepositional or viewpoint phrase",
+        "example": "In Essay #3, the student wrote 'From my perspective all the formal education' without a comma. In this essay, the student correctly wrote 'From my point of view, if we do not spend...' — the comma is now in place."
+      }
+    ],
+    "still_recurring": [
+      {
+        "pattern": "Informal use of 'lots of' instead of 'many' or 'numerous' in formal writing",
+        "count": 2,
+        "essays": [
+          2,
+          4
+        ],
+        "example": "Essay #2: 'lots of people reach their job' was corrected to 'many people commute to work'; Essay #4 (this essay): 'There are lots of social clubs' and 'lots of thing' — the informal form keeps reappearing."
+      },
+      {
+        "pattern": "Missing verb in a clause (subject without predicate)",
+        "count": 2,
+        "essays": [
+          2,
+          4
+        ],
+        "example": "Essay #2: 'It balanced in many company' was missing the verb 'is'; Essay #4 (this essay): 'Some people aware of them' is missing the verb 'are' — the sentence has no predicate."
+      }
+    ],
+    "evaluated_at": "2026-03-28T05:37:39.989227"
+  },
+  "created_at": "2026-03-28T05:35:45.028320"
+}

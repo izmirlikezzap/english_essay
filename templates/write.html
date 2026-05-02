@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block title %}{{ 'Edit Essay' if essay else 'Write New Essay' }}{% endblock %}
+{% block content %}
+<div class="write-page">
+  <h2>{{ 'Edit Essay' if essay else 'New Essay' }}</h2>
+
+  <form id="essay-form" data-essay-id="{{ essay.id if essay else '' }}">
+    <div class="form-row">
+      <div class="form-group flex-2">
+        <label for="topic">Topic</label>
+        <input type="text" id="topic" placeholder="e.g. Advantages of remote work" value="{{ essay.topic if essay else '' }}">
+      </div>
+      <div class="form-group flex-1">
+        <label>Type</label>
+        {% set types = ['Opinion', 'Argumentative', 'Descriptive', 'Narrative', 'Compare/Contrast', 'General'] %}
+        <div class="custom-select" id="type-select-ui">
+          <button type="button" class="custom-select-trigger" id="type-trigger">
+            <span id="type-label">{{ essay.type if essay else 'Opinion' }}</span>
+            <svg class="select-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none">
+              <path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <ul class="custom-select-menu" id="type-menu">
+            {% for t in types %}
+              <li class="custom-option {% if (essay and essay.type == t) or (not essay and t == 'Opinion') %}selected{% endif %}" data-value="{{ t }}">
+                <span class="option-check">✓</span>{{ t }}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <select id="essay-type" style="display:none">
+          {% for t in types %}
+            <option value="{{ t }}" {{ 'selected' if essay and essay.type == t else '' }}>{{ t }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="essay-text">Your Essay</label>
+      <textarea id="essay-text" rows="14" placeholder="Start writing your essay here...">{{ essay.original_text if essay else '' }}</textarea>
+      <div class="textarea-footer">
+        <span id="word-count">0 words</span>
+        <div class="writing-timer" id="writing-timer">
+          <span id="timer-display">00:00</span>
+          <button type="button" class="timer-btn timer-pause" id="timer-toggle" title="Pause timer">
+            <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor">
+              <rect x="1.5" y="1" width="2.5" height="8" rx="1"/>
+              <rect x="6" y="1" width="2.5" height="8" rx="1"/>
+            </svg>
+          </button>
+        </div>
+        <span id="autosave-status"></span>
+      </div>
+    </div>
+
+    <div class="form-actions">
+      <a href="/" class="btn btn-secondary">Cancel</a>
+      <button type="submit" class="btn btn-primary" id="save-btn">Save Essay</button>
+    </div>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  initWritePage();
+</script>
+{% endblock %}

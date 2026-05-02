@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "topic": "Artificial Intelligence & Jobs",
+  "date": "2026-03-24",
+  "type": "Opinion",
+  "original_text": "Artificial intelligence is rapidly developing and affecting many industries. Some people belive it will replace human jobs, while others think it will create new opportunities. Actually it depends on your side, if you are a mechanican there is no problem for you soon, but if you are a software developer who are using computer always, your job can be doing by machines or agents. In my perspective, ai handles lots of repetitive jobs but you can turn it to your advantage with using tools or agents. To be more precise, everyone doing repetitive task in their daily life but after these achievements in llm we are faster than ever. on the one hand our task finishes early and managers give us more than it. Lots of people don't determine the text written by ai or human. This stuation tells us a new problem such as lack of spirit inside words or sentences, the results are similar to each other as peas in a pod, etc. nevertheless, we have hope about our jobs and moods.",
+  "status": "evaluated",
+  "evaluation": {
+    "spelling_mistakes": [
+      {
+        "wrong": "belive",
+        "correct": "believe"
+      },
+      {
+        "wrong": "mechanican",
+        "correct": "mechanic"
+      },
+      {
+        "wrong": "stuation",
+        "correct": "situation"
+      }
+    ],
+    "grammar_mistakes": [
+      {
+        "wrong": "Actually it depends on your side",
+        "correct": "It depends on the type of job you have"
+      },
+      {
+        "wrong": "if you are a mechanican there is no problem for you soon",
+        "correct": "if you are a mechanic, AI may not threaten your job in the near future"
+      },
+      {
+        "wrong": "a software developer who are using computer always",
+        "correct": "a software developer who always uses a computer"
+      },
+      {
+        "wrong": "your job can be doing by machines",
+        "correct": "your job can be done by machines"
+      },
+      {
+        "wrong": "In my perspective",
+        "correct": "From my perspective / In my opinion"
+      },
+      {
+        "wrong": "with using ai tools",
+        "correct": "by using AI tools"
+      },
+      {
+        "wrong": "everyone doing repetitive task",
+        "correct": "everyone is doing repetitive tasks"
+      },
+      {
+        "wrong": "after these achievements in llm",
+        "correct": "after recent developments in LLMs"
+      },
+      {
+        "wrong": "our task finishes early",
+        "correct": "our tasks are completed earlier"
+      },
+      {
+        "wrong": "Lots of people don't determine the text written by ai or human",
+        "correct": "Many people cannot distinguish whether a text is written by AI or a human"
+      }
+    ],
+    "corrected_version": "Artificial intelligence is rapidly developing and affecting many industries. Some people believe it will replace human jobs, while others think it will create new opportunities. In reality, the impact of AI depends on the type of profession. For instance, if you are a mechanic, AI may not threaten your job in the near future. However, if you are a software developer who always uses a computer, some parts of your job could potentially be done by machines or intelligent agents.\n\nFrom my perspective, AI mainly handles repetitive tasks, but people can turn this situation into an advantage by using AI tools and agents. To be more precise, everyone performs repetitive tasks in their daily work, but recent developments in large language models have significantly increased our productivity.\n\nOn the one hand, our tasks can be completed earlier, and managers may assign additional work as a result. Moreover, many people cannot easily distinguish whether a text is written by AI or by a human. This situation creates a new problem, such as the lack of originality and human touch in written content, as many AI-generated texts tend to look very similar to each other.\n\nNevertheless, people still remain hopeful about the future of their jobs and professional lives.",
+    "scores": {
+      "vocabulary": 6,
+      "grammar": 5,
+      "coherence": 6
+    },
+    "notes": [
+      "\"From my perspective\" is correct, not \"In my perspective\"",
+      "Passive voice: use \"can be done\" not \"can be doing\"",
+      "\"distinguish whether... or\" — memorize this pattern",
+      "Watch subject-verb agreement: \"who uses\" not \"who are using\"",
+      "Capitalize proper nouns like AI, LLM"
+    ],
+    "evaluated_at": "2026-03-24T12:00:00"
+  },
+  "created_at": "2026-03-24T12:00:00"
+}
