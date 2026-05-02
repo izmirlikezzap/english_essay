@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+.env
+.flaskenv
+
+data/essays/*.json
+!data/essays/.gitkeep
+
+.claude/settings.local.json

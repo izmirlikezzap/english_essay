@@ -3,7 +3,7 @@
 Evaluate an essay using an AI CLI.
 
 Usage:
-  python3 evaluate.py essays/essay_3.json
+  python3 evaluate.py data/essays/essay_3.json
 """
 
 import json
@@ -313,6 +313,6 @@ def evaluate(filepath):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print("Usage: python3 evaluate.py essays/essay_X.json")
+        print("Usage: python3 evaluate.py data/essays/essay_X.json")
         sys.exit(1)
     evaluate(sys.argv[1])
