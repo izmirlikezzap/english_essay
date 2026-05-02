@@ -86,7 +86,3 @@ To try the app with an example file:
 cp examples/essays/essay_1.json data/essays/
 python3 app.py
 ```
-
-## Contributing
-
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
